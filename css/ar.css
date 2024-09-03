@@ -1,0 +1,141 @@
+      /* 4:3 Aspect Ratio */
+      @media screen and (aspect-ratio: 4/3) {
+        /* Styles for tablets with a 4:3 aspect ratio */
+      
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* 16:10 Aspect Ratio */
+      @media screen and (aspect-ratio: 16/10) {
+        /* Styles for tablets with a 16:10 aspect ratio */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* 16:9 Aspect Ratio */
+      @media screen and (aspect-ratio: 16/9) {
+        /* Styles for tablets with a 16:9 aspect ratio */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* 3:2 Aspect Ratio */
+      @media screen and (aspect-ratio: 3/2) {
+        /* Styles for tablets with a 3:2 aspect ratio */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* 5:3 Aspect Ratio */
+      @media screen and (aspect-ratio: 5/3) {
+        /* Styles for tablets with a 5:3 aspect ratio */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* 5:4 Aspect Ratio */
+      @media screen and (aspect-ratio: 5/4) {
+        /* Styles for tablets with a 5:4 aspect ratio */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* 1.43:1 Aspect Ratio (Close to 4:3 but slightly wider) */
+      @media screen and (aspect-ratio: 143/100) {
+        /* Styles for tablets with a 1.43:1 aspect ratio */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* 13:9 Aspect Ratio */
+      @media screen and (aspect-ratio: 13/9) {
+        /* Styles for tablets with a 13:9 aspect ratio */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* Generic Media Queries for Wider Than Tall (Landscape) */
+      @media screen and (min-aspect-ratio: 16/10) {
+        /* Styles for all landscape aspect ratios greater than 16:10 */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
+      /* Generic Media Queries for Taller Than Wide (Portrait) */
+      @media screen and (max-aspect-ratio: 10/16) {
+        /* Styles for all portrait aspect ratios narrower than 10:16 */
+        #heading1 {
+          position: absolute;
+          top: 50%;
+          left: 20%;
+          font-size: 3em;
+          color: #565252;
+          text-align: center;
+        }
+        
+      }
+      
